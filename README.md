@@ -1,4 +1,4 @@
-# programacionlineal1
+# Programación Lineal 1
 *Ayuda mínima de programación lineal con R*
 ### Hola, bienvenidas/os
 Quise compartir un pequeño documento con sentencias tal vez útiles 
