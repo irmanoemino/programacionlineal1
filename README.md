@@ -13,3 +13,8 @@ en cursos que contengan conceptos básicos de programación lineal.
 
 Este curso se comparte bajo la licencia [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES).
 
+### DOI
+
+[![DOI](https://zenodo.org/badge/419512972.svg)](https://zenodo.org/badge/latestdoi/419512972)
+
+
