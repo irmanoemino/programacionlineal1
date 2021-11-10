@@ -15,7 +15,7 @@ Este curso se comparte bajo la licencia [Creative Commons Attribution-ShareAlike
 
 ### Citar como
 
-[![DOI](https://zenodo.org/badge/419512972.svg)](https://zenodo.org/badge/latestdoi/419512972)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.5606109.svg)](https://zenodo.org/badge/latestdoi/419512972)
 
 No, Irma Noemí. (2021, Septiembre) Programación Lineal con R v.1, Zenodo. https://doi.org/10.5281/zenodo.5606109
 
